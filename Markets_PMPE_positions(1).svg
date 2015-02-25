@@ -1,0 +1,4151 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="400"
+   width="600"
+   style="font-family:'lucida grande', 'lucida sans unicode', verdana, arial, helvetica, sans-serif;font-size:12px;"
+   version="1.1"
+   id="svg2"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="Markets_PMPE_positions(1).svg">
+  <metadata
+     id="metadata921">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1440"
+     inkscape:window-height="788"
+     id="namedview919"
+     showgrid="false"
+     inkscape:zoom="1.6790123"
+     inkscape:cx="310.61305"
+     inkscape:cy="316.08341"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <desc
+     id="desc4">Created with Highcharts 3.0.10</desc>
+  <defs
+     id="defs6">
+    <clipPath
+       id="highcharts-25">
+      <rect
+         height="245"
+         width="538"
+         y="0"
+         x="0"
+         id="rect9" />
+    </clipPath>
+  </defs>
+  <rect
+     class=" highcharts-background"
+     fill="#FFFFFF"
+     height="400"
+     width="600"
+     y="0"
+     x="0"
+     id="rect11" />
+  <path
+     stroke-dasharray="none"
+     stroke-width="2"
+     stroke="#000000"
+     d="M 42 181 L 580 181"
+     fill="none"
+     id="path13" />
+  <image
+     sodipodi:absref="/Users/JeffADaniels/Desktop/Data_visualization/Team Project/THE OIL SHOW/images/../..//global/images/icons/icon_interactive.gif"
+     xlink:href="../..//global/images/icons/icon_interactive.gif"
+     id="image15"
+     preserveAspectRatio="none"
+     x="625"
+     y="23"
+     width="69"
+     height="17" />
+  <g
+     class="highcharts-grid"
+     id="g17" />
+  <g
+     class="highcharts-grid"
+     id="g19">
+    <path
+       opacity="1"
+       stroke-width="1"
+       stroke="#C0C0C0"
+       d="M 42 69.5 L 580 69.5"
+       fill="none"
+       id="path21" />
+    <path
+       opacity="1"
+       stroke-width="1"
+       stroke="#C0C0C0"
+       d="M 42 92.5 L 580 92.5"
+       fill="none"
+       id="path23" />
+    <path
+       opacity="1"
+       stroke-width="1"
+       stroke="#C0C0C0"
+       d="M 42 115.5 L 580 115.5"
+       fill="none"
+       id="path25" />
+    <path
+       opacity="1"
+       stroke-width="1"
+       stroke="#C0C0C0"
+       d="M 42 137.5 L 580 137.5"
+       fill="none"
+       id="path27" />
+    <path
+       opacity="1"
+       stroke-width="1"
+       stroke="#C0C0C0"
+       d="M 42 159.5 L 580 159.5"
+       fill="none"
+       id="path29" />
+    <path
+       opacity="1"
+       stroke-width="1"
+       stroke="#C0C0C0"
+       d="M 42 181.5 L 580 181.5"
+       fill="none"
+       id="path31" />
+    <path
+       opacity="1"
+       stroke-width="1"
+       stroke="#C0C0C0"
+       d="M 42 204.5 L 580 204.5"
+       fill="none"
+       id="path33" />
+    <path
+       opacity="1"
+       stroke-width="1"
+       stroke="#C0C0C0"
+       d="M 42 226.5 L 580 226.5"
+       fill="none"
+       id="path35" />
+    <path
+       opacity="1"
+       stroke-width="1"
+       stroke="#C0C0C0"
+       d="M 42 248.5 L 580 248.5"
+       fill="none"
+       id="path37" />
+    <path
+       opacity="1"
+       stroke-width="1"
+       stroke="#C0C0C0"
+       d="M 42 270.5 L 580 270.5"
+       fill="none"
+       id="path39" />
+    <path
+       opacity="1"
+       stroke-width="1"
+       stroke="#C0C0C0"
+       d="M 42 293.5 L 580 293.5"
+       fill="none"
+       id="path41" />
+    <path
+       opacity="1"
+       stroke-width="1"
+       stroke="#C0C0C0"
+       d="M 42 315.5 L 580 315.5"
+       fill="none"
+       id="path43" />
+  </g>
+  <g
+     class="highcharts-axis"
+     id="g45">
+    <path
+       opacity="1"
+       stroke-width="1"
+       stroke="black"
+       d="M 130.5 315 L 130.5 320"
+       fill="none"
+       id="path47" />
+    <path
+       opacity="1"
+       stroke-width="1"
+       stroke="black"
+       d="M 203.5 315 L 203.5 320"
+       fill="none"
+       id="path49" />
+    <path
+       opacity="1"
+       stroke-width="1"
+       stroke="black"
+       d="M 277.5 315 L 277.5 320"
+       fill="none"
+       id="path51" />
+    <path
+       opacity="1"
+       stroke-width="1"
+       stroke="black"
+       d="M 350.5 315 L 350.5 320"
+       fill="none"
+       id="path53" />
+    <path
+       opacity="1"
+       stroke-width="1"
+       stroke="black"
+       d="M 424.5 315 L 424.5 320"
+       fill="none"
+       id="path55" />
+    <path
+       opacity="1"
+       stroke-width="1"
+       stroke="black"
+       d="M 497.5 315 L 497.5 320"
+       fill="none"
+       id="path57" />
+    <path
+       opacity="1"
+       stroke-width="1"
+       stroke="black"
+       d="M 571.5 315 L 571.5 320"
+       fill="none"
+       id="path59" />
+    <path
+       opacity="1"
+       stroke-width="1"
+       stroke="black"
+       d="M 56.5 315 L 56.5 320"
+       fill="none"
+       id="path61" />
+    <path
+       visibility="visible"
+       stroke-width="1"
+       stroke="#C0D0E0"
+       d="M 42 315.5 L 580 315.5"
+       fill="none"
+       id="path63" />
+  </g>
+  <g
+     class="highcharts-axis"
+     id="g65" />
+  <text
+     style="position:absolute;color:black;font-family:arial;fill:black;font-size:10px;"
+     y="57"
+     x="17"
+     id="text67">
+    <tspan
+       x="17"
+       id="tspan69">number of  contracts (thousands)</tspan>
+  </text>
+  <text
+     style="position:absolute;color:gray;font-family:arial;fill:gray;font-size:10px;"
+     y="387"
+     x="22"
+     id="text71">
+    <tspan
+       x="22"
+       id="tspan73">Source: </tspan>
+    <tspan
+       dx="0"
+       id="tspan75">CFTC Commitment of Traders</tspan>
+    <tspan
+       dx="0"
+       id="tspan77">. Published by: </tspan>
+    <tspan
+       dx="0"
+       id="tspan79">U.S. Energy Information Administration</tspan>
+    <tspan
+       dx="0"
+       id="tspan81">.</tspan>
+  </text>
+  <text
+     style="position:absolute;color:gray;font-family:arial;fill:gray;font-size:10px;"
+     y="399"
+     x="22"
+     id="text83">
+    <tspan
+       x="22"
+       id="tspan85"> Updated: Monthly | Last Updated: 4/30/2014</tspan>
+  </text>
+  <g
+     class="highcharts-series-group"
+     id="g87">
+    <g
+       clip-path="url(#highcharts-25)"
+       style=""
+       transform="translate(42,70) scale(1 1)"
+       visibility="visible"
+       class="highcharts-series highcharts-tracker"
+       id="g89">
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(0,150,215)"
+         fill-opacity="1"
+         height="49"
+         width="2"
+         y="63"
+         x="13"
+         id="rect91" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(0,150,215)"
+         fill-opacity="1"
+         height="49"
+         width="2"
+         y="63"
+         x="13"
+         id="rect93" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(0,150,215)"
+         fill-opacity="1"
+         height="45"
+         width="2"
+         y="67"
+         x="19"
+         id="rect95" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(0,150,215)"
+         fill-opacity="1"
+         height="45"
+         width="2"
+         y="67"
+         x="19"
+         id="rect97" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(0,150,215)"
+         fill-opacity="1"
+         height="48"
+         width="2"
+         y="64"
+         x="25"
+         id="rect99" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(0,150,215)"
+         fill-opacity="1"
+         height="48"
+         width="2"
+         y="64"
+         x="25"
+         id="rect101" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(0,150,215)"
+         fill-opacity="1"
+         height="46"
+         width="2"
+         y="66"
+         x="31"
+         id="rect103" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(0,150,215)"
+         fill-opacity="1"
+         height="46"
+         width="2"
+         y="66"
+         x="31"
+         id="rect105" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(0,150,215)"
+         fill-opacity="1"
+         height="49"
+         width="2"
+         y="63"
+         x="37"
+         id="rect107" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(0,150,215)"
+         fill-opacity="1"
+         height="49"
+         width="2"
+         y="63"
+         x="37"
+         id="rect109" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(0,150,215)"
+         fill-opacity="1"
+         height="50"
+         width="2"
+         y="62"
+         x="44"
+         id="rect111" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(0,150,215)"
+         fill-opacity="1"
+         height="50"
+         width="2"
+         y="62"
+         x="44"
+         id="rect113" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(0,150,215)"
+         fill-opacity="1"
+         height="39"
+         width="2"
+         y="73"
+         x="50"
+         id="rect115" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(0,150,215)"
+         fill-opacity="1"
+         height="39"
+         width="2"
+         y="73"
+         x="50"
+         id="rect117" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(0,150,215)"
+         fill-opacity="1"
+         height="30"
+         width="2"
+         y="82"
+         x="56"
+         id="rect119" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(0,150,215)"
+         fill-opacity="1"
+         height="30"
+         width="2"
+         y="82"
+         x="56"
+         id="rect121" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(0,150,215)"
+         fill-opacity="1"
+         height="26"
+         width="2"
+         y="86"
+         x="62"
+         id="rect123" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(0,150,215)"
+         fill-opacity="1"
+         height="26"
+         width="2"
+         y="86"
+         x="62"
+         id="rect125" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(0,150,215)"
+         fill-opacity="1"
+         height="26"
+         width="2"
+         y="86"
+         x="68"
+         id="rect127" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(0,150,215)"
+         fill-opacity="1"
+         height="26"
+         width="2"
+         y="86"
+         x="68"
+         id="rect129" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(0,150,215)"
+         fill-opacity="1"
+         height="31"
+         width="2"
+         y="81"
+         x="74"
+         id="rect131" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(0,150,215)"
+         fill-opacity="1"
+         height="31"
+         width="2"
+         y="81"
+         x="74"
+         id="rect133" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(0,150,215)"
+         fill-opacity="1"
+         height="32"
+         width="2"
+         y="80"
+         x="81"
+         id="rect135" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(0,150,215)"
+         fill-opacity="1"
+         height="32"
+         width="2"
+         y="80"
+         x="81"
+         id="rect137" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(0,150,215)"
+         fill-opacity="1"
+         height="36"
+         width="2"
+         y="76"
+         x="87"
+         id="rect139" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(0,150,215)"
+         fill-opacity="1"
+         height="36"
+         width="2"
+         y="76"
+         x="87"
+         id="rect141" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(0,150,215)"
+         fill-opacity="1"
+         height="34"
+         width="2"
+         y="78"
+         x="93"
+         id="rect143" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(0,150,215)"
+         fill-opacity="1"
+         height="34"
+         width="2"
+         y="78"
+         x="93"
+         id="rect145" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(0,150,215)"
+         fill-opacity="1"
+         height="36"
+         width="2"
+         y="76"
+         x="99"
+         id="rect147" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(0,150,215)"
+         fill-opacity="1"
+         height="36"
+         width="2"
+         y="76"
+         x="99"
+         id="rect149" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(0,150,215)"
+         fill-opacity="1"
+         height="36"
+         width="2"
+         y="76"
+         x="105"
+         id="rect151" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(0,150,215)"
+         fill-opacity="1"
+         height="36"
+         width="2"
+         y="76"
+         x="105"
+         id="rect153" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(0,150,215)"
+         fill-opacity="1"
+         height="33"
+         width="2"
+         y="79"
+         x="111"
+         id="rect155" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(0,150,215)"
+         fill-opacity="1"
+         height="33"
+         width="2"
+         y="79"
+         x="111"
+         id="rect157" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(0,150,215)"
+         fill-opacity="1"
+         height="28"
+         width="2"
+         y="84"
+         x="117"
+         id="rect159" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(0,150,215)"
+         fill-opacity="1"
+         height="28"
+         width="2"
+         y="84"
+         x="117"
+         id="rect161" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(0,150,215)"
+         fill-opacity="1"
+         height="32"
+         width="2"
+         y="80"
+         x="123"
+         id="rect163" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(0,150,215)"
+         fill-opacity="1"
+         height="32"
+         width="2"
+         y="80"
+         x="123"
+         id="rect165" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(0,150,215)"
+         fill-opacity="1"
+         height="29"
+         width="2"
+         y="83"
+         x="129"
+         id="rect167" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(0,150,215)"
+         fill-opacity="1"
+         height="29"
+         width="2"
+         y="83"
+         x="129"
+         id="rect169" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(0,150,215)"
+         fill-opacity="1"
+         height="27"
+         width="2"
+         y="85"
+         x="136"
+         id="rect171" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(0,150,215)"
+         fill-opacity="1"
+         height="27"
+         width="2"
+         y="85"
+         x="136"
+         id="rect173" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(0,150,215)"
+         fill-opacity="1"
+         height="29"
+         width="2"
+         y="83"
+         x="142"
+         id="rect175" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(0,150,215)"
+         fill-opacity="1"
+         height="29"
+         width="2"
+         y="83"
+         x="142"
+         id="rect177" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(0,150,215)"
+         fill-opacity="1"
+         height="31"
+         width="2"
+         y="81"
+         x="148"
+         id="rect179" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(0,150,215)"
+         fill-opacity="1"
+         height="31"
+         width="2"
+         y="81"
+         x="148"
+         id="rect181" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(0,150,215)"
+         fill-opacity="1"
+         height="31"
+         width="2"
+         y="81"
+         x="154"
+         id="rect183" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(0,150,215)"
+         fill-opacity="1"
+         height="31"
+         width="2"
+         y="81"
+         x="154"
+         id="rect185" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(0,150,215)"
+         fill-opacity="1"
+         height="34"
+         width="2"
+         y="78"
+         x="160"
+         id="rect187" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(0,150,215)"
+         fill-opacity="1"
+         height="34"
+         width="2"
+         y="78"
+         x="160"
+         id="rect189" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(0,150,215)"
+         fill-opacity="1"
+         height="37"
+         width="2"
+         y="75"
+         x="166"
+         id="rect191" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(0,150,215)"
+         fill-opacity="1"
+         height="37"
+         width="2"
+         y="75"
+         x="166"
+         id="rect193" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(0,150,215)"
+         fill-opacity="1"
+         height="40"
+         width="2"
+         y="72"
+         x="172"
+         id="rect195" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(0,150,215)"
+         fill-opacity="1"
+         height="40"
+         width="2"
+         y="72"
+         x="172"
+         id="rect197" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(0,150,215)"
+         fill-opacity="1"
+         height="51"
+         width="2"
+         y="61"
+         x="178"
+         id="rect199" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(0,150,215)"
+         fill-opacity="1"
+         height="51"
+         width="2"
+         y="61"
+         x="178"
+         id="rect201" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(0,150,215)"
+         fill-opacity="1"
+         height="49"
+         width="2"
+         y="63"
+         x="184"
+         id="rect203" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(0,150,215)"
+         fill-opacity="1"
+         height="49"
+         width="2"
+         y="63"
+         x="184"
+         id="rect205" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(0,150,215)"
+         fill-opacity="1"
+         height="36"
+         width="2"
+         y="76"
+         x="191"
+         id="rect207" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(0,150,215)"
+         fill-opacity="1"
+         height="36"
+         width="2"
+         y="76"
+         x="191"
+         id="rect209" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(0,150,215)"
+         fill-opacity="1"
+         height="30"
+         width="2"
+         y="82"
+         x="197"
+         id="rect211" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(0,150,215)"
+         fill-opacity="1"
+         height="30"
+         width="2"
+         y="82"
+         x="197"
+         id="rect213" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(0,150,215)"
+         fill-opacity="1"
+         height="30"
+         width="2"
+         y="82"
+         x="203"
+         id="rect215" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(0,150,215)"
+         fill-opacity="1"
+         height="30"
+         width="2"
+         y="82"
+         x="203"
+         id="rect217" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(0,150,215)"
+         fill-opacity="1"
+         height="40"
+         width="2"
+         y="72"
+         x="209"
+         id="rect219" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(0,150,215)"
+         fill-opacity="1"
+         height="40"
+         width="2"
+         y="72"
+         x="209"
+         id="rect221" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(0,150,215)"
+         fill-opacity="1"
+         height="47"
+         width="2"
+         y="65"
+         x="215"
+         id="rect223" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(0,150,215)"
+         fill-opacity="1"
+         height="47"
+         width="2"
+         y="65"
+         x="215"
+         id="rect225" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(0,150,215)"
+         fill-opacity="1"
+         height="46"
+         width="2"
+         y="66"
+         x="221"
+         id="rect227" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(0,150,215)"
+         fill-opacity="1"
+         height="46"
+         width="2"
+         y="66"
+         x="221"
+         id="rect229" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(0,150,215)"
+         fill-opacity="1"
+         height="50"
+         width="2"
+         y="62"
+         x="227"
+         id="rect231" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(0,150,215)"
+         fill-opacity="1"
+         height="50"
+         width="2"
+         y="62"
+         x="227"
+         id="rect233" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(0,150,215)"
+         fill-opacity="1"
+         height="59"
+         width="2"
+         y="53"
+         x="234"
+         id="rect235" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(0,150,215)"
+         fill-opacity="1"
+         height="59"
+         width="2"
+         y="53"
+         x="234"
+         id="rect237" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(0,150,215)"
+         fill-opacity="1"
+         height="59"
+         width="2"
+         y="53"
+         x="240"
+         id="rect239" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(0,150,215)"
+         fill-opacity="1"
+         height="59"
+         width="2"
+         y="53"
+         x="240"
+         id="rect241" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(0,150,215)"
+         fill-opacity="1"
+         height="46"
+         width="2"
+         y="66"
+         x="246"
+         id="rect243" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(0,150,215)"
+         fill-opacity="1"
+         height="46"
+         width="2"
+         y="66"
+         x="246"
+         id="rect245" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(0,150,215)"
+         fill-opacity="1"
+         height="46"
+         width="2"
+         y="66"
+         x="252"
+         id="rect247" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(0,150,215)"
+         fill-opacity="1"
+         height="46"
+         width="2"
+         y="66"
+         x="252"
+         id="rect249" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(0,150,215)"
+         fill-opacity="1"
+         height="47"
+         width="2"
+         y="65"
+         x="258"
+         id="rect251" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(0,150,215)"
+         fill-opacity="1"
+         height="47"
+         width="2"
+         y="65"
+         x="258"
+         id="rect253" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(0,150,215)"
+         fill-opacity="1"
+         height="46"
+         width="2"
+         y="66"
+         x="264"
+         id="rect255" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(0,150,215)"
+         fill-opacity="1"
+         height="46"
+         width="2"
+         y="66"
+         x="264"
+         id="rect257" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(0,150,215)"
+         fill-opacity="1"
+         height="47"
+         width="2"
+         y="65"
+         x="270"
+         id="rect259" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(0,150,215)"
+         fill-opacity="1"
+         height="47"
+         width="2"
+         y="65"
+         x="270"
+         id="rect261" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(0,150,215)"
+         fill-opacity="1"
+         height="49"
+         width="2"
+         y="63"
+         x="276"
+         id="rect263" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(0,150,215)"
+         fill-opacity="1"
+         height="49"
+         width="2"
+         y="63"
+         x="276"
+         id="rect265" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(0,150,215)"
+         fill-opacity="1"
+         height="48"
+         width="2"
+         y="64"
+         x="283"
+         id="rect267" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(0,150,215)"
+         fill-opacity="1"
+         height="48"
+         width="2"
+         y="64"
+         x="283"
+         id="rect269" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(0,150,215)"
+         fill-opacity="1"
+         height="46"
+         width="2"
+         y="66"
+         x="289"
+         id="rect271" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(0,150,215)"
+         fill-opacity="1"
+         height="46"
+         width="2"
+         y="66"
+         x="289"
+         id="rect273" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(0,150,215)"
+         fill-opacity="1"
+         height="36"
+         width="2"
+         y="76"
+         x="295"
+         id="rect275" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(0,150,215)"
+         fill-opacity="1"
+         height="36"
+         width="2"
+         y="76"
+         x="295"
+         id="rect277" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(0,150,215)"
+         fill-opacity="1"
+         height="34"
+         width="2"
+         y="78"
+         x="301"
+         id="rect279" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(0,150,215)"
+         fill-opacity="1"
+         height="34"
+         width="2"
+         y="78"
+         x="301"
+         id="rect281" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(0,150,215)"
+         fill-opacity="1"
+         height="40"
+         width="2"
+         y="72"
+         x="307"
+         id="rect283" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(0,150,215)"
+         fill-opacity="1"
+         height="40"
+         width="2"
+         y="72"
+         x="307"
+         id="rect285" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(0,150,215)"
+         fill-opacity="1"
+         height="50"
+         width="2"
+         y="62"
+         x="313"
+         id="rect287" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(0,150,215)"
+         fill-opacity="1"
+         height="50"
+         width="2"
+         y="62"
+         x="313"
+         id="rect289" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(0,150,215)"
+         fill-opacity="1"
+         height="56"
+         width="2"
+         y="56"
+         x="319"
+         id="rect291" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(0,150,215)"
+         fill-opacity="1"
+         height="56"
+         width="2"
+         y="56"
+         x="319"
+         id="rect293" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(0,150,215)"
+         fill-opacity="1"
+         height="58"
+         width="2"
+         y="54"
+         x="326"
+         id="rect295" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(0,150,215)"
+         fill-opacity="1"
+         height="58"
+         width="2"
+         y="54"
+         x="326"
+         id="rect297" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(0,150,215)"
+         fill-opacity="1"
+         height="51"
+         width="2"
+         y="61"
+         x="332"
+         id="rect299" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(0,150,215)"
+         fill-opacity="1"
+         height="51"
+         width="2"
+         y="61"
+         x="332"
+         id="rect301" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(0,150,215)"
+         fill-opacity="1"
+         height="45"
+         width="2"
+         y="67"
+         x="338"
+         id="rect303" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(0,150,215)"
+         fill-opacity="1"
+         height="45"
+         width="2"
+         y="67"
+         x="338"
+         id="rect305" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(0,150,215)"
+         fill-opacity="1"
+         height="48"
+         width="2"
+         y="64"
+         x="344"
+         id="rect307" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(0,150,215)"
+         fill-opacity="1"
+         height="48"
+         width="2"
+         y="64"
+         x="344"
+         id="rect309" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(0,150,215)"
+         fill-opacity="1"
+         height="55"
+         width="2"
+         y="57"
+         x="350"
+         id="rect311" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(0,150,215)"
+         fill-opacity="1"
+         height="55"
+         width="2"
+         y="57"
+         x="350"
+         id="rect313" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(0,150,215)"
+         fill-opacity="1"
+         height="61"
+         width="2"
+         y="51"
+         x="356"
+         id="rect315" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(0,150,215)"
+         fill-opacity="1"
+         height="61"
+         width="2"
+         y="51"
+         x="356"
+         id="rect317" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(0,150,215)"
+         fill-opacity="1"
+         height="64"
+         width="2"
+         y="48"
+         x="362"
+         id="rect319" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(0,150,215)"
+         fill-opacity="1"
+         height="64"
+         width="2"
+         y="48"
+         x="362"
+         id="rect321" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(0,150,215)"
+         fill-opacity="1"
+         height="61"
+         width="2"
+         y="51"
+         x="369"
+         id="rect323" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(0,150,215)"
+         fill-opacity="1"
+         height="61"
+         width="2"
+         y="51"
+         x="369"
+         id="rect325" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(0,150,215)"
+         fill-opacity="1"
+         height="59"
+         width="2"
+         y="53"
+         x="375"
+         id="rect327" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(0,150,215)"
+         fill-opacity="1"
+         height="59"
+         width="2"
+         y="53"
+         x="375"
+         id="rect329" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(0,150,215)"
+         fill-opacity="1"
+         height="54"
+         width="2"
+         y="58"
+         x="381"
+         id="rect331" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(0,150,215)"
+         fill-opacity="1"
+         height="54"
+         width="2"
+         y="58"
+         x="381"
+         id="rect333" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(0,150,215)"
+         fill-opacity="1"
+         height="61"
+         width="2"
+         y="51"
+         x="387"
+         id="rect335" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(0,150,215)"
+         fill-opacity="1"
+         height="61"
+         width="2"
+         y="51"
+         x="387"
+         id="rect337" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(0,150,215)"
+         fill-opacity="1"
+         height="63"
+         width="2"
+         y="49"
+         x="393"
+         id="rect339" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(0,150,215)"
+         fill-opacity="1"
+         height="63"
+         width="2"
+         y="49"
+         x="393"
+         id="rect341" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(0,150,215)"
+         fill-opacity="1"
+         height="69"
+         width="2"
+         y="43"
+         x="399"
+         id="rect343" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(0,150,215)"
+         fill-opacity="1"
+         height="69"
+         width="2"
+         y="43"
+         x="399"
+         id="rect345" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(0,150,215)"
+         fill-opacity="1"
+         height="77"
+         width="2"
+         y="35"
+         x="405"
+         id="rect347" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(0,150,215)"
+         fill-opacity="1"
+         height="77"
+         width="2"
+         y="35"
+         x="405"
+         id="rect349" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(0,150,215)"
+         fill-opacity="1"
+         height="77"
+         width="2"
+         y="35"
+         x="411"
+         id="rect351" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(0,150,215)"
+         fill-opacity="1"
+         height="77"
+         width="2"
+         y="35"
+         x="411"
+         id="rect353" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(0,150,215)"
+         fill-opacity="1"
+         height="82"
+         width="2"
+         y="30"
+         x="417"
+         id="rect355" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(0,150,215)"
+         fill-opacity="1"
+         height="82"
+         width="2"
+         y="30"
+         x="417"
+         id="rect357" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(0,150,215)"
+         fill-opacity="1"
+         height="82"
+         width="2"
+         y="30"
+         x="424"
+         id="rect359" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(0,150,215)"
+         fill-opacity="1"
+         height="82"
+         width="2"
+         y="30"
+         x="424"
+         id="rect361" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(0,150,215)"
+         fill-opacity="1"
+         height="80"
+         width="2"
+         y="32"
+         x="430"
+         id="rect363" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(0,150,215)"
+         fill-opacity="1"
+         height="80"
+         width="2"
+         y="32"
+         x="430"
+         id="rect365" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(0,150,215)"
+         fill-opacity="1"
+         height="79"
+         width="2"
+         y="33"
+         x="436"
+         id="rect367" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(0,150,215)"
+         fill-opacity="1"
+         height="79"
+         width="2"
+         y="33"
+         x="436"
+         id="rect369" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(0,150,215)"
+         fill-opacity="1"
+         height="68"
+         width="2"
+         y="44"
+         x="442"
+         id="rect371" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(0,150,215)"
+         fill-opacity="1"
+         height="68"
+         width="2"
+         y="44"
+         x="442"
+         id="rect373" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(0,150,215)"
+         fill-opacity="1"
+         height="61"
+         width="2"
+         y="51"
+         x="448"
+         id="rect375" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(0,150,215)"
+         fill-opacity="1"
+         height="61"
+         width="2"
+         y="51"
+         x="448"
+         id="rect377" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(0,150,215)"
+         fill-opacity="1"
+         height="56"
+         width="2"
+         y="56"
+         x="454"
+         id="rect379" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(0,150,215)"
+         fill-opacity="1"
+         height="56"
+         width="2"
+         y="56"
+         x="454"
+         id="rect381" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(0,150,215)"
+         fill-opacity="1"
+         height="56"
+         width="2"
+         y="56"
+         x="461"
+         id="rect383" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(0,150,215)"
+         fill-opacity="1"
+         height="56"
+         width="2"
+         y="56"
+         x="461"
+         id="rect385" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(0,150,215)"
+         fill-opacity="1"
+         height="59"
+         width="2"
+         y="53"
+         x="466"
+         id="rect387" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(0,150,215)"
+         fill-opacity="1"
+         height="59"
+         width="2"
+         y="53"
+         x="466"
+         id="rect389" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(0,150,215)"
+         fill-opacity="1"
+         height="62"
+         width="2"
+         y="50"
+         x="473"
+         id="rect391" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(0,150,215)"
+         fill-opacity="1"
+         height="62"
+         width="2"
+         y="50"
+         x="473"
+         id="rect393" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(0,150,215)"
+         fill-opacity="1"
+         height="53"
+         width="2"
+         y="59"
+         x="479"
+         id="rect395" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(0,150,215)"
+         fill-opacity="1"
+         height="53"
+         width="2"
+         y="59"
+         x="479"
+         id="rect397" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(0,150,215)"
+         fill-opacity="1"
+         height="54"
+         width="2"
+         y="58"
+         x="485"
+         id="rect399" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(0,150,215)"
+         fill-opacity="1"
+         height="54"
+         width="2"
+         y="58"
+         x="485"
+         id="rect401" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(0,150,215)"
+         fill-opacity="1"
+         height="57"
+         width="2"
+         y="55"
+         x="491"
+         id="rect403" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(0,150,215)"
+         fill-opacity="1"
+         height="57"
+         width="2"
+         y="55"
+         x="491"
+         id="rect405" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(0,150,215)"
+         fill-opacity="1"
+         height="49"
+         width="2"
+         y="63"
+         x="497"
+         id="rect407" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(0,150,215)"
+         fill-opacity="1"
+         height="49"
+         width="2"
+         y="63"
+         x="497"
+         id="rect409" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(0,150,215)"
+         fill-opacity="1"
+         height="43"
+         width="2"
+         y="69"
+         x="503"
+         id="rect411" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(0,150,215)"
+         fill-opacity="1"
+         height="43"
+         width="2"
+         y="69"
+         x="503"
+         id="rect413" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(0,150,215)"
+         fill-opacity="1"
+         height="50"
+         width="2"
+         y="62"
+         x="509"
+         id="rect415" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(0,150,215)"
+         fill-opacity="1"
+         height="50"
+         width="2"
+         y="62"
+         x="509"
+         id="rect417" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(0,150,215)"
+         fill-opacity="1"
+         height="49"
+         width="2"
+         y="63"
+         x="516"
+         id="rect419" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(0,150,215)"
+         fill-opacity="1"
+         height="49"
+         width="2"
+         y="63"
+         x="516"
+         id="rect421" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(0,150,215)"
+         fill-opacity="1"
+         height="45"
+         width="2"
+         y="67"
+         x="522"
+         id="rect423" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(0,150,215)"
+         fill-opacity="1"
+         height="45"
+         width="2"
+         y="67"
+         x="522"
+         id="rect425" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(0,150,215)"
+         fill-opacity="1"
+         height="51"
+         width="2"
+         y="61"
+         x="528"
+         id="rect427" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(0,150,215)"
+         fill-opacity="1"
+         height="51"
+         width="2"
+         y="61"
+         x="528"
+         id="rect429" />
+    </g>
+    <g
+       clip-path="none"
+       transform="translate(42,70) scale(1 1)"
+       visibility="visible"
+       class="highcharts-markers"
+       id="g431" />
+    <g
+       clip-path="url(#highcharts-25)"
+       style=""
+       transform="translate(42,70) scale(1 1)"
+       visibility="visible"
+       class="highcharts-series highcharts-tracker"
+       id="g433">
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(93,151,50)"
+         fill-opacity="1"
+         height="81"
+         width="2"
+         y="112"
+         x="15"
+         id="rect435" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(93,151,50)"
+         fill-opacity="1"
+         height="81"
+         width="2"
+         y="112"
+         x="15"
+         id="rect437" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(93,151,50)"
+         fill-opacity="1"
+         height="75"
+         width="2"
+         y="112"
+         x="22"
+         id="rect439" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(93,151,50)"
+         fill-opacity="1"
+         height="75"
+         width="2"
+         y="112"
+         x="22"
+         id="rect441" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(93,151,50)"
+         fill-opacity="1"
+         height="79"
+         width="2"
+         y="112"
+         x="27"
+         id="rect443" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(93,151,50)"
+         fill-opacity="1"
+         height="79"
+         width="2"
+         y="112"
+         x="27"
+         id="rect445" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(93,151,50)"
+         fill-opacity="1"
+         height="67"
+         width="2"
+         y="112"
+         x="34"
+         id="rect447" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(93,151,50)"
+         fill-opacity="1"
+         height="67"
+         width="2"
+         y="112"
+         x="34"
+         id="rect449" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(93,151,50)"
+         fill-opacity="1"
+         height="65"
+         width="2"
+         y="112"
+         x="40"
+         id="rect451" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(93,151,50)"
+         fill-opacity="1"
+         height="65"
+         width="2"
+         y="112"
+         x="40"
+         id="rect453" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(93,151,50)"
+         fill-opacity="1"
+         height="64"
+         width="2"
+         y="112"
+         x="46"
+         id="rect455" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(93,151,50)"
+         fill-opacity="1"
+         height="64"
+         width="2"
+         y="112"
+         x="46"
+         id="rect457" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(93,151,50)"
+         fill-opacity="1"
+         height="57"
+         width="2"
+         y="112"
+         x="52"
+         id="rect459" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(93,151,50)"
+         fill-opacity="1"
+         height="57"
+         width="2"
+         y="112"
+         x="52"
+         id="rect461" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(93,151,50)"
+         fill-opacity="1"
+         height="51"
+         width="2"
+         y="112"
+         x="58"
+         id="rect463" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(93,151,50)"
+         fill-opacity="1"
+         height="51"
+         width="2"
+         y="112"
+         x="58"
+         id="rect465" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(93,151,50)"
+         fill-opacity="1"
+         height="51"
+         width="2"
+         y="112"
+         x="64"
+         id="rect467" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(93,151,50)"
+         fill-opacity="1"
+         height="51"
+         width="2"
+         y="112"
+         x="64"
+         id="rect469" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(93,151,50)"
+         fill-opacity="1"
+         height="49"
+         width="2"
+         y="112"
+         x="70"
+         id="rect471" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(93,151,50)"
+         fill-opacity="1"
+         height="49"
+         width="2"
+         y="112"
+         x="70"
+         id="rect473" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(93,151,50)"
+         fill-opacity="1"
+         height="53"
+         width="2"
+         y="112"
+         x="77"
+         id="rect475" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(93,151,50)"
+         fill-opacity="1"
+         height="53"
+         width="2"
+         y="112"
+         x="77"
+         id="rect477" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(93,151,50)"
+         fill-opacity="1"
+         height="64"
+         width="2"
+         y="112"
+         x="83"
+         id="rect479" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(93,151,50)"
+         fill-opacity="1"
+         height="64"
+         width="2"
+         y="112"
+         x="83"
+         id="rect481" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(93,151,50)"
+         fill-opacity="1"
+         height="75"
+         width="2"
+         y="112"
+         x="89"
+         id="rect483" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(93,151,50)"
+         fill-opacity="1"
+         height="75"
+         width="2"
+         y="112"
+         x="89"
+         id="rect485" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(93,151,50)"
+         fill-opacity="1"
+         height="78"
+         width="2"
+         y="112"
+         x="95"
+         id="rect487" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(93,151,50)"
+         fill-opacity="1"
+         height="78"
+         width="2"
+         y="112"
+         x="95"
+         id="rect489" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(93,151,50)"
+         fill-opacity="1"
+         height="81"
+         width="2"
+         y="112"
+         x="101"
+         id="rect491" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(93,151,50)"
+         fill-opacity="1"
+         height="81"
+         width="2"
+         y="112"
+         x="101"
+         id="rect493" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(93,151,50)"
+         fill-opacity="1"
+         height="82"
+         width="2"
+         y="112"
+         x="107"
+         id="rect495" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(93,151,50)"
+         fill-opacity="1"
+         height="82"
+         width="2"
+         y="112"
+         x="107"
+         id="rect497" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(93,151,50)"
+         fill-opacity="1"
+         height="80"
+         width="2"
+         y="112"
+         x="113"
+         id="rect499" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(93,151,50)"
+         fill-opacity="1"
+         height="80"
+         width="2"
+         y="112"
+         x="113"
+         id="rect501" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(93,151,50)"
+         fill-opacity="1"
+         height="75"
+         width="2"
+         y="112"
+         x="119"
+         id="rect503" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(93,151,50)"
+         fill-opacity="1"
+         height="75"
+         width="2"
+         y="112"
+         x="119"
+         id="rect505" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(93,151,50)"
+         fill-opacity="1"
+         height="74"
+         width="2"
+         y="112"
+         x="125"
+         id="rect507" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(93,151,50)"
+         fill-opacity="1"
+         height="74"
+         width="2"
+         y="112"
+         x="125"
+         id="rect509" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(93,151,50)"
+         fill-opacity="1"
+         height="69"
+         width="2"
+         y="112"
+         x="132"
+         id="rect511" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(93,151,50)"
+         fill-opacity="1"
+         height="69"
+         width="2"
+         y="112"
+         x="132"
+         id="rect513" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(93,151,50)"
+         fill-opacity="1"
+         height="69"
+         width="2"
+         y="112"
+         x="138"
+         id="rect515" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(93,151,50)"
+         fill-opacity="1"
+         height="69"
+         width="2"
+         y="112"
+         x="138"
+         id="rect517" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(93,151,50)"
+         fill-opacity="1"
+         height="72"
+         width="2"
+         y="112"
+         x="144"
+         id="rect519" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(93,151,50)"
+         fill-opacity="1"
+         height="72"
+         width="2"
+         y="112"
+         x="144"
+         id="rect521" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(93,151,50)"
+         fill-opacity="1"
+         height="82"
+         width="2"
+         y="112"
+         x="150"
+         id="rect523" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(93,151,50)"
+         fill-opacity="1"
+         height="82"
+         width="2"
+         y="112"
+         x="150"
+         id="rect525" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(93,151,50)"
+         fill-opacity="1"
+         height="86"
+         width="2"
+         y="112"
+         x="156"
+         id="rect527" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(93,151,50)"
+         fill-opacity="1"
+         height="86"
+         width="2"
+         y="112"
+         x="156"
+         id="rect529" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(93,151,50)"
+         fill-opacity="1"
+         height="90"
+         width="2"
+         y="112"
+         x="163"
+         id="rect531" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(93,151,50)"
+         fill-opacity="1"
+         height="90"
+         width="2"
+         y="112"
+         x="163"
+         id="rect533" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(93,151,50)"
+         fill-opacity="1"
+         height="89"
+         width="2"
+         y="112"
+         x="169"
+         id="rect535" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(93,151,50)"
+         fill-opacity="1"
+         height="89"
+         width="2"
+         y="112"
+         x="169"
+         id="rect537" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(93,151,50)"
+         fill-opacity="1"
+         height="93"
+         width="2"
+         y="112"
+         x="174"
+         id="rect539" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(93,151,50)"
+         fill-opacity="1"
+         height="93"
+         width="2"
+         y="112"
+         x="174"
+         id="rect541" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(93,151,50)"
+         fill-opacity="1"
+         height="103"
+         width="2"
+         y="112"
+         x="181"
+         id="rect543" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(93,151,50)"
+         fill-opacity="1"
+         height="103"
+         width="2"
+         y="112"
+         x="181"
+         id="rect545" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(93,151,50)"
+         fill-opacity="1"
+         height="98"
+         width="2"
+         y="112"
+         x="187"
+         id="rect547" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(93,151,50)"
+         fill-opacity="1"
+         height="98"
+         width="2"
+         y="112"
+         x="187"
+         id="rect549" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(93,151,50)"
+         fill-opacity="1"
+         height="83"
+         width="2"
+         y="112"
+         x="193"
+         id="rect551" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(93,151,50)"
+         fill-opacity="1"
+         height="83"
+         width="2"
+         y="112"
+         x="193"
+         id="rect553" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(93,151,50)"
+         fill-opacity="1"
+         height="76"
+         width="2"
+         y="112"
+         x="199"
+         id="rect555" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(93,151,50)"
+         fill-opacity="1"
+         height="76"
+         width="2"
+         y="112"
+         x="199"
+         id="rect557" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(93,151,50)"
+         fill-opacity="1"
+         height="77"
+         width="2"
+         y="112"
+         x="205"
+         id="rect559" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(93,151,50)"
+         fill-opacity="1"
+         height="77"
+         width="2"
+         y="112"
+         x="205"
+         id="rect561" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(93,151,50)"
+         fill-opacity="1"
+         height="81"
+         width="2"
+         y="112"
+         x="211"
+         id="rect563" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(93,151,50)"
+         fill-opacity="1"
+         height="81"
+         width="2"
+         y="112"
+         x="211"
+         id="rect565" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(93,151,50)"
+         fill-opacity="1"
+         height="82"
+         width="2"
+         y="112"
+         x="217"
+         id="rect567" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(93,151,50)"
+         fill-opacity="1"
+         height="82"
+         width="2"
+         y="112"
+         x="217"
+         id="rect569" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(93,151,50)"
+         fill-opacity="1"
+         height="81"
+         width="2"
+         y="112"
+         x="224"
+         id="rect571" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(93,151,50)"
+         fill-opacity="1"
+         height="81"
+         width="2"
+         y="112"
+         x="224"
+         id="rect573" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(93,151,50)"
+         fill-opacity="1"
+         height="87"
+         width="2"
+         y="112"
+         x="230"
+         id="rect575" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(93,151,50)"
+         fill-opacity="1"
+         height="87"
+         width="2"
+         y="112"
+         x="230"
+         id="rect577" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(93,151,50)"
+         fill-opacity="1"
+         height="94"
+         width="2"
+         y="112"
+         x="236"
+         id="rect579" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(93,151,50)"
+         fill-opacity="1"
+         height="94"
+         width="2"
+         y="112"
+         x="236"
+         id="rect581" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(93,151,50)"
+         fill-opacity="1"
+         height="102"
+         width="2"
+         y="112"
+         x="242"
+         id="rect583" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(93,151,50)"
+         fill-opacity="1"
+         height="102"
+         width="2"
+         y="112"
+         x="242"
+         id="rect585" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(93,151,50)"
+         fill-opacity="1"
+         height="99"
+         width="2"
+         y="112"
+         x="248"
+         id="rect587" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(93,151,50)"
+         fill-opacity="1"
+         height="99"
+         width="2"
+         y="112"
+         x="248"
+         id="rect589" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(93,151,50)"
+         fill-opacity="1"
+         height="94"
+         width="2"
+         y="112"
+         x="254"
+         id="rect591" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(93,151,50)"
+         fill-opacity="1"
+         height="94"
+         width="2"
+         y="112"
+         x="254"
+         id="rect593" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(93,151,50)"
+         fill-opacity="1"
+         height="94"
+         width="2"
+         y="112"
+         x="260"
+         id="rect595" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(93,151,50)"
+         fill-opacity="1"
+         height="94"
+         width="2"
+         y="112"
+         x="260"
+         id="rect597" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(93,151,50)"
+         fill-opacity="1"
+         height="87"
+         width="2"
+         y="112"
+         x="266"
+         id="rect599" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(93,151,50)"
+         fill-opacity="1"
+         height="87"
+         width="2"
+         y="112"
+         x="266"
+         id="rect601" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(93,151,50)"
+         fill-opacity="1"
+         height="87"
+         width="2"
+         y="112"
+         x="272"
+         id="rect603" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(93,151,50)"
+         fill-opacity="1"
+         height="87"
+         width="2"
+         y="112"
+         x="272"
+         id="rect605" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(93,151,50)"
+         fill-opacity="1"
+         height="89"
+         width="2"
+         y="112"
+         x="279"
+         id="rect607" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(93,151,50)"
+         fill-opacity="1"
+         height="89"
+         width="2"
+         y="112"
+         x="279"
+         id="rect609" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(93,151,50)"
+         fill-opacity="1"
+         height="85"
+         width="2"
+         y="112"
+         x="285"
+         id="rect611" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(93,151,50)"
+         fill-opacity="1"
+         height="85"
+         width="2"
+         y="112"
+         x="285"
+         id="rect613" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(93,151,50)"
+         fill-opacity="1"
+         height="76"
+         width="2"
+         y="112"
+         x="291"
+         id="rect615" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(93,151,50)"
+         fill-opacity="1"
+         height="76"
+         width="2"
+         y="112"
+         x="291"
+         id="rect617" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(93,151,50)"
+         fill-opacity="1"
+         height="65"
+         width="2"
+         y="112"
+         x="297"
+         id="rect619" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(93,151,50)"
+         fill-opacity="1"
+         height="65"
+         width="2"
+         y="112"
+         x="297"
+         id="rect621" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(93,151,50)"
+         fill-opacity="1"
+         height="59"
+         width="2"
+         y="112"
+         x="303"
+         id="rect623" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(93,151,50)"
+         fill-opacity="1"
+         height="59"
+         width="2"
+         y="112"
+         x="303"
+         id="rect625" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(93,151,50)"
+         fill-opacity="1"
+         height="61"
+         width="2"
+         y="112"
+         x="309"
+         id="rect627" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(93,151,50)"
+         fill-opacity="1"
+         height="61"
+         width="2"
+         y="112"
+         x="309"
+         id="rect629" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(93,151,50)"
+         fill-opacity="1"
+         height="69"
+         width="2"
+         y="112"
+         x="316"
+         id="rect631" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(93,151,50)"
+         fill-opacity="1"
+         height="69"
+         width="2"
+         y="112"
+         x="316"
+         id="rect633" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(93,151,50)"
+         fill-opacity="1"
+         height="73"
+         width="2"
+         y="112"
+         x="322"
+         id="rect635" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(93,151,50)"
+         fill-opacity="1"
+         height="73"
+         width="2"
+         y="112"
+         x="322"
+         id="rect637" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(93,151,50)"
+         fill-opacity="1"
+         height="73"
+         width="2"
+         y="112"
+         x="328"
+         id="rect639" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(93,151,50)"
+         fill-opacity="1"
+         height="73"
+         width="2"
+         y="112"
+         x="328"
+         id="rect641" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(93,151,50)"
+         fill-opacity="1"
+         height="64"
+         width="2"
+         y="112"
+         x="334"
+         id="rect643" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(93,151,50)"
+         fill-opacity="1"
+         height="64"
+         width="2"
+         y="112"
+         x="334"
+         id="rect645" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(93,151,50)"
+         fill-opacity="1"
+         height="55"
+         width="2"
+         y="112"
+         x="340"
+         id="rect647" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(93,151,50)"
+         fill-opacity="1"
+         height="55"
+         width="2"
+         y="112"
+         x="340"
+         id="rect649" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(93,151,50)"
+         fill-opacity="1"
+         height="61"
+         width="2"
+         y="112"
+         x="346"
+         id="rect651" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(93,151,50)"
+         fill-opacity="1"
+         height="61"
+         width="2"
+         y="112"
+         x="346"
+         id="rect653" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(93,151,50)"
+         fill-opacity="1"
+         height="66"
+         width="2"
+         y="112"
+         x="352"
+         id="rect655" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(93,151,50)"
+         fill-opacity="1"
+         height="66"
+         width="2"
+         y="112"
+         x="352"
+         id="rect657" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(93,151,50)"
+         fill-opacity="1"
+         height="69"
+         width="2"
+         y="112"
+         x="359"
+         id="rect659" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(93,151,50)"
+         fill-opacity="1"
+         height="69"
+         width="2"
+         y="112"
+         x="359"
+         id="rect661" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(93,151,50)"
+         fill-opacity="1"
+         height="69"
+         width="2"
+         y="112"
+         x="365"
+         id="rect663" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(93,151,50)"
+         fill-opacity="1"
+         height="69"
+         width="2"
+         y="112"
+         x="365"
+         id="rect665" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(93,151,50)"
+         fill-opacity="1"
+         height="66"
+         width="2"
+         y="112"
+         x="371"
+         id="rect667" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(93,151,50)"
+         fill-opacity="1"
+         height="66"
+         width="2"
+         y="112"
+         x="371"
+         id="rect669" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(93,151,50)"
+         fill-opacity="1"
+         height="64"
+         width="2"
+         y="112"
+         x="377"
+         id="rect671" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(93,151,50)"
+         fill-opacity="1"
+         height="64"
+         width="2"
+         y="112"
+         x="377"
+         id="rect673" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(93,151,50)"
+         fill-opacity="1"
+         height="57"
+         width="2"
+         y="112"
+         x="383"
+         id="rect675" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(93,151,50)"
+         fill-opacity="1"
+         height="57"
+         width="2"
+         y="112"
+         x="383"
+         id="rect677" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(93,151,50)"
+         fill-opacity="1"
+         height="59"
+         width="2"
+         y="112"
+         x="389"
+         id="rect679" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(93,151,50)"
+         fill-opacity="1"
+         height="59"
+         width="2"
+         y="112"
+         x="389"
+         id="rect681" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(93,151,50)"
+         fill-opacity="1"
+         height="59"
+         width="2"
+         y="112"
+         x="395"
+         id="rect683" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(93,151,50)"
+         fill-opacity="1"
+         height="59"
+         width="2"
+         y="112"
+         x="395"
+         id="rect685" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(93,151,50)"
+         fill-opacity="1"
+         height="66"
+         width="2"
+         y="112"
+         x="401"
+         id="rect687" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(93,151,50)"
+         fill-opacity="1"
+         height="66"
+         width="2"
+         y="112"
+         x="401"
+         id="rect689" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(93,151,50)"
+         fill-opacity="1"
+         height="71"
+         width="2"
+         y="112"
+         x="407"
+         id="rect691" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(93,151,50)"
+         fill-opacity="1"
+         height="71"
+         width="2"
+         y="112"
+         x="407"
+         id="rect693" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(93,151,50)"
+         fill-opacity="1"
+         height="72"
+         width="2"
+         y="112"
+         x="414"
+         id="rect695" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(93,151,50)"
+         fill-opacity="1"
+         height="72"
+         width="2"
+         y="112"
+         x="414"
+         id="rect697" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(93,151,50)"
+         fill-opacity="1"
+         height="73"
+         width="2"
+         y="112"
+         x="420"
+         id="rect699" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(93,151,50)"
+         fill-opacity="1"
+         height="73"
+         width="2"
+         y="112"
+         x="420"
+         id="rect701" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(93,151,50)"
+         fill-opacity="1"
+         height="72"
+         width="2"
+         y="112"
+         x="426"
+         id="rect703" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(93,151,50)"
+         fill-opacity="1"
+         height="72"
+         width="2"
+         y="112"
+         x="426"
+         id="rect705" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(93,151,50)"
+         fill-opacity="1"
+         height="71"
+         width="2"
+         y="112"
+         x="432"
+         id="rect707" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(93,151,50)"
+         fill-opacity="1"
+         height="71"
+         width="2"
+         y="112"
+         x="432"
+         id="rect709" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(93,151,50)"
+         fill-opacity="1"
+         height="74"
+         width="2"
+         y="112"
+         x="438"
+         id="rect711" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(93,151,50)"
+         fill-opacity="1"
+         height="74"
+         width="2"
+         y="112"
+         x="438"
+         id="rect713" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(93,151,50)"
+         fill-opacity="1"
+         height="64"
+         width="2"
+         y="112"
+         x="444"
+         id="rect715" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(93,151,50)"
+         fill-opacity="1"
+         height="64"
+         width="2"
+         y="112"
+         x="444"
+         id="rect717" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(93,151,50)"
+         fill-opacity="1"
+         height="62"
+         width="2"
+         y="112"
+         x="450"
+         id="rect719" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(93,151,50)"
+         fill-opacity="1"
+         height="62"
+         width="2"
+         y="112"
+         x="450"
+         id="rect721" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(93,151,50)"
+         fill-opacity="1"
+         height="61"
+         width="2"
+         y="112"
+         x="457"
+         id="rect723" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(93,151,50)"
+         fill-opacity="1"
+         height="61"
+         width="2"
+         y="112"
+         x="457"
+         id="rect725" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(93,151,50)"
+         fill-opacity="1"
+         height="65"
+         width="2"
+         y="112"
+         x="463"
+         id="rect727" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(93,151,50)"
+         fill-opacity="1"
+         height="65"
+         width="2"
+         y="112"
+         x="463"
+         id="rect729" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(93,151,50)"
+         fill-opacity="1"
+         height="70"
+         width="2"
+         y="112"
+         x="469"
+         id="rect731" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(93,151,50)"
+         fill-opacity="1"
+         height="70"
+         width="2"
+         y="112"
+         x="469"
+         id="rect733" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(93,151,50)"
+         fill-opacity="1"
+         height="78"
+         width="2"
+         y="112"
+         x="475"
+         id="rect735" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(93,151,50)"
+         fill-opacity="1"
+         height="78"
+         width="2"
+         y="112"
+         x="475"
+         id="rect737" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(93,151,50)"
+         fill-opacity="1"
+         height="72"
+         width="2"
+         y="112"
+         x="481"
+         id="rect739" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(93,151,50)"
+         fill-opacity="1"
+         height="72"
+         width="2"
+         y="112"
+         x="481"
+         id="rect741" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(93,151,50)"
+         fill-opacity="1"
+         height="77"
+         width="2"
+         y="112"
+         x="487"
+         id="rect743" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(93,151,50)"
+         fill-opacity="1"
+         height="77"
+         width="2"
+         y="112"
+         x="487"
+         id="rect745" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(93,151,50)"
+         fill-opacity="1"
+         height="72"
+         width="2"
+         y="112"
+         x="493"
+         id="rect747" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(93,151,50)"
+         fill-opacity="1"
+         height="72"
+         width="2"
+         y="112"
+         x="493"
+         id="rect749" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(93,151,50)"
+         fill-opacity="1"
+         height="57"
+         width="2"
+         y="112"
+         x="499"
+         id="rect751" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(93,151,50)"
+         fill-opacity="1"
+         height="57"
+         width="2"
+         y="112"
+         x="499"
+         id="rect753" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(93,151,50)"
+         fill-opacity="1"
+         height="52"
+         width="2"
+         y="112"
+         x="506"
+         id="rect755" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(93,151,50)"
+         fill-opacity="1"
+         height="52"
+         width="2"
+         y="112"
+         x="506"
+         id="rect757" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(93,151,50)"
+         fill-opacity="1"
+         height="62"
+         width="2"
+         y="112"
+         x="512"
+         id="rect759" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(93,151,50)"
+         fill-opacity="1"
+         height="62"
+         width="2"
+         y="112"
+         x="512"
+         id="rect761" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(93,151,50)"
+         fill-opacity="1"
+         height="62"
+         width="2"
+         y="112"
+         x="518"
+         id="rect763" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(93,151,50)"
+         fill-opacity="1"
+         height="62"
+         width="2"
+         y="112"
+         x="518"
+         id="rect765" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(93,151,50)"
+         fill-opacity="1"
+         height="61"
+         width="2"
+         y="112"
+         x="524"
+         id="rect767" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(93,151,50)"
+         fill-opacity="1"
+         height="61"
+         width="2"
+         y="112"
+         x="524"
+         id="rect769" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(93,151,50)"
+         fill-opacity="1"
+         height="75"
+         width="2"
+         y="112"
+         x="530"
+         id="rect771" />
+      <rect
+         ry="0"
+         rx="0"
+         fill="rgb(93,151,50)"
+         fill-opacity="1"
+         height="75"
+         width="2"
+         y="112"
+         x="530"
+         id="rect773" />
+    </g>
+    <g
+       clip-path="none"
+       transform="translate(42,70) scale(1 1)"
+       visibility="visible"
+       class="highcharts-markers"
+       id="g775" />
+    <g
+       clip-path="url(#highcharts-25)"
+       transform="translate(42,70) scale(1 1)"
+       visibility="visible"
+       class="highcharts-series"
+       id="g777">
+      <path
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         stroke-width="2"
+         stroke="rgb(163,51,64)"
+         stroke-opacity="1"
+         d="M 15.108181658429398 141.8666709090909 L 15.108181658429398 141.8666709090909 L 21.349429384065978 140.51479431818183 L 21.349429384065978 140.51479431818183 L 27.188015966113095 141.7823909090909 L 27.188015966113095 141.7823909090909 L 33.42087491792489 131.6622427272727 L 33.42087491792489 131.6622427272727 L 39.46079207176673 126.69451136363637 L 39.46079207176673 126.69451136363637 L 45.70203979740331 124.17117840909091 L 45.70203979740331 124.17117840909091 L 51.74195695124516 128.79360454545457 L 51.74195695124516 128.79360454545457 L 57.98320467688173 131.8261477272727 L 57.98320467688173 131.8261477272727 L 64.22445240251831 134.95027636363636 L 64.22445240251831 134.95027636363636 L 70.26436955636017 133.39247727272726 L 70.26436955636017 133.39247727272726 L 76.50561728199675 132.94017386363637 L 76.50561728199675 132.94017386363637 L 82.55392320966337 143.2331918181818 L 82.55392320966337 143.2331918181818 L 88.79517093529995 149.024925 L 88.79517093529995 149.024925 L 95.03641866093652 154.34075681818183 L 95.03641866093652 154.34075681818183 L 100.67367467118892 155.92508272727272 L 100.67367467118892 155.92508272727272 L 106.90653362300071 156.4521 L 106.90653362300071 156.4521 L 112.94645077684255 157.21232386363636 L 112.94645077684255 157.21232386363636 L 119.18769850247914 157.6461409090909 L 119.18769850247914 157.6461409090909 L 125.22761565632098 152.812625 L 125.22761565632098 152.812625 L 131.46886338195753 150.54158636363638 L 131.46886338195753 150.54158636363638 L 137.71011110759412 152.67005727272726 L 137.71011110759412 152.67005727272726 L 143.75002826143597 153.5274125 L 143.75002826143597 153.5274125 L 149.99127598707256 161.44876363636365 L 149.99127598707256 161.44876363636365 L 156.03958191473916 165.53794727272725 L 156.03958191473916 165.53794727272725 L 162.28082964037574 167.17536022727273 L 162.28082964037574 167.17536022727273 L 168.52207736601233 162.38627840909092 L 168.52207736601233 162.38627840909092 L 174.15933337626473 163.14674727272728 L 174.15933337626473 163.14674727272728 L 180.3921923280765 162.90339545454546 L 180.3921923280765 162.90339545454546 L 186.43210948191836 160.07442500000002 L 186.43210948191836 160.07442500000002 L 192.67335720755494 157.82004636363638 L 192.67335720755494 157.82004636363638 L 198.71327436139677 156.7185931818182 L 198.71327436139677 156.7185931818182 L 204.95452208703335 158.4917918181818 L 204.95452208703335 158.4917918181818 L 211.19576981266994 151.65639204545454 L 211.19576981266994 151.65639204545454 L 217.2356869665118 145.73268181818182 L 217.2356869665118 145.73268181818182 L 223.47693469214835 145.63855727272727 L 223.47693469214835 145.63855727272727 L 229.52524061981498 147.3531340909091 L 229.52524061981498 147.3531340909091 L 235.76648834545156 145.55856477272727 L 235.76648834545156 145.55856477272727 L 242.00773607108815 153.59785 L 242.00773607108815 153.59785 L 247.64499208134052 164.31036363636366 L 247.64499208134052 164.31036363636366 L 253.87785103315233 158.68293636363637 L 253.87785103315233 158.68293636363637 L 259.9177681869942 156.8324290909091 L 259.9177681869942 156.8324290909091 L 266.15901591263076 152.45854431818182 L 266.15901591263076 152.45854431818182 L 272.1989330664726 150.9243431818182 L 272.1989330664726 150.9243431818182 L 278.4401807921092 151.1544872727273 L 278.4401807921092 151.1544872727273 L 284.68142851774576 147.78416704545455 L 284.68142851774576 147.78416704545455 L 290.7213456715876 140.56624431818182 L 290.7213456715876 140.56624431818182 L 296.96259339722417 139.54888181818183 L 296.96259339722417 139.54888181818183 L 303.0108993248908 136.29689659090909 L 303.0108993248908 136.29689659090909 L 309.25214705052736 131.62883363636365 L 309.25214705052736 131.62883363636365 L 315.49339477616394 129.58222613636363 L 315.49339477616394 129.58222613636363 L 321.33198135821107 127.937775 L 321.33198135821107 127.937775 L 327.5648403100229 125.85750227272726 L 327.5648403100229 125.85750227272726 L 333.6047574638647 123.79832181818183 L 333.6047574638647 123.79832181818183 L 339.8460051895013 121.42211136363636 L 339.8460051895013 121.42211136363636 L 345.8859223433431 123.1919690909091 L 345.8859223433431 123.1919690909091 L 352.1271700689797 121.91556363636363 L 352.1271700689797 121.91556363636363 L 358.3684177946163 118.81575681818181 L 358.3684177946163 118.81575681818181 L 364.40833494845816 115.4842690909091 L 364.40833494845816 115.4842690909091 L 370.6495826740947 115.7456840909091 L 370.6495826740947 115.7456840909091 L 376.69788860176135 116.21597272727274 L 376.69788860176135 116.21597272727274 L 382.93913632739793 113.61090999999999 L 382.93913632739793 113.61090999999999 L 389.1803840530345 108.1516306818182 L 389.1803840530345 108.1516306818182 L 394.8176400632869 106.44520568181818 L 394.8176400632869 106.44520568181818 L 401.0504990150987 106.96646545454547 L 401.0504990150987 106.96646545454547 L 407.0904161689405 103.9592909090909 L 407.0904161689405 103.9592909090909 L 413.3316638945771 105.46932613636363 L 413.3316638945771 105.46932613636363 L 419.37158104841893 101.99875636363637 L 419.37158104841893 101.99875636363637 L 425.6128287740555 100.54694204545456 L 425.6128287740555 100.54694204545456 L 431.8540764996921 102.20464545454547 L 431.8540764996921 102.20464545454547 L 437.8939936535339 105.74952818181819 L 437.8939936535339 105.74952818181819 L 444.1352413791705 107.43461590909092 L 444.1352413791705 107.43461590909092 L 450.18354730683717 111.69291636363636 L 450.18354730683717 111.69291636363636 L 456.42479503247375 115.49210909090911 L 456.42479503247375 115.49210909090911 L 462.6660427581103 119.75577727272727 L 462.6660427581103 119.75577727272727 L 468.3032987683627 121.81578181818182 L 468.3032987683627 121.81578181818182 L 474.5361577201745 126.76335636363638 L 474.5361577201745 126.76335636363638 L 480.57607487401634 130.23353636363635 L 480.57607487401634 130.23353636363635 L 486.8173225996529 133.06362045454546 L 486.8173225996529 133.06362045454546 L 492.85723975349475 125.89204727272728 L 492.85723975349475 125.89204727272728 L 499.09848747913134 118.33733863636365 L 499.09848747913134 118.33733863636365 L 505.3397352047679 119.32413181818183 L 505.3397352047679 119.32413181818183 L 511.37965235860975 122.98209318181819 L 511.37965235860975 122.98209318181819 L 517.6209000842464 123.50839772727274 L 517.6209000842464 123.50839772727274 L 523.669206011913 125.80349090909091 L 523.669206011913 125.80349090909091 L 529.9104537375496 134.92138863636364 L 529.9104537375496 134.92138863636364"
+         fill="none"
+         id="path779" />
+      <path
+         style=""
+         class=" highcharts-tracker"
+         stroke-width="22"
+         stroke="rgb(192,192,192)"
+         stroke-opacity="0.0001"
+         visibility="visible"
+         stroke-linejoin="round"
+         d="M 5.108181658429398 141.8666709090909 L 15.108181658429398 141.8666709090909 L 15.108181658429398 141.8666709090909 L 21.349429384065978 140.51479431818183 L 21.349429384065978 140.51479431818183 L 27.188015966113095 141.7823909090909 L 27.188015966113095 141.7823909090909 L 33.42087491792489 131.6622427272727 L 33.42087491792489 131.6622427272727 L 39.46079207176673 126.69451136363637 L 39.46079207176673 126.69451136363637 L 45.70203979740331 124.17117840909091 L 45.70203979740331 124.17117840909091 L 51.74195695124516 128.79360454545457 L 51.74195695124516 128.79360454545457 L 57.98320467688173 131.8261477272727 L 57.98320467688173 131.8261477272727 L 64.22445240251831 134.95027636363636 L 64.22445240251831 134.95027636363636 L 70.26436955636017 133.39247727272726 L 70.26436955636017 133.39247727272726 L 76.50561728199675 132.94017386363637 L 76.50561728199675 132.94017386363637 L 82.55392320966337 143.2331918181818 L 82.55392320966337 143.2331918181818 L 88.79517093529995 149.024925 L 88.79517093529995 149.024925 L 95.03641866093652 154.34075681818183 L 95.03641866093652 154.34075681818183 L 100.67367467118892 155.92508272727272 L 100.67367467118892 155.92508272727272 L 106.90653362300071 156.4521 L 106.90653362300071 156.4521 L 112.94645077684255 157.21232386363636 L 112.94645077684255 157.21232386363636 L 119.18769850247914 157.6461409090909 L 119.18769850247914 157.6461409090909 L 125.22761565632098 152.812625 L 125.22761565632098 152.812625 L 131.46886338195753 150.54158636363638 L 131.46886338195753 150.54158636363638 L 137.71011110759412 152.67005727272726 L 137.71011110759412 152.67005727272726 L 143.75002826143597 153.5274125 L 143.75002826143597 153.5274125 L 149.99127598707256 161.44876363636365 L 149.99127598707256 161.44876363636365 L 156.03958191473916 165.53794727272725 L 156.03958191473916 165.53794727272725 L 162.28082964037574 167.17536022727273 L 162.28082964037574 167.17536022727273 L 168.52207736601233 162.38627840909092 L 168.52207736601233 162.38627840909092 L 174.15933337626473 163.14674727272728 L 174.15933337626473 163.14674727272728 L 180.3921923280765 162.90339545454546 L 180.3921923280765 162.90339545454546 L 186.43210948191836 160.07442500000002 L 186.43210948191836 160.07442500000002 L 192.67335720755494 157.82004636363638 L 192.67335720755494 157.82004636363638 L 198.71327436139677 156.7185931818182 L 198.71327436139677 156.7185931818182 L 204.95452208703335 158.4917918181818 L 204.95452208703335 158.4917918181818 L 211.19576981266994 151.65639204545454 L 211.19576981266994 151.65639204545454 L 217.2356869665118 145.73268181818182 L 217.2356869665118 145.73268181818182 L 223.47693469214835 145.63855727272727 L 223.47693469214835 145.63855727272727 L 229.52524061981498 147.3531340909091 L 229.52524061981498 147.3531340909091 L 235.76648834545156 145.55856477272727 L 235.76648834545156 145.55856477272727 L 242.00773607108815 153.59785 L 242.00773607108815 153.59785 L 247.64499208134052 164.31036363636366 L 247.64499208134052 164.31036363636366 L 253.87785103315233 158.68293636363637 L 253.87785103315233 158.68293636363637 L 259.9177681869942 156.8324290909091 L 259.9177681869942 156.8324290909091 L 266.15901591263076 152.45854431818182 L 266.15901591263076 152.45854431818182 L 272.1989330664726 150.9243431818182 L 272.1989330664726 150.9243431818182 L 278.4401807921092 151.1544872727273 L 278.4401807921092 151.1544872727273 L 284.68142851774576 147.78416704545455 L 284.68142851774576 147.78416704545455 L 290.7213456715876 140.56624431818182 L 290.7213456715876 140.56624431818182 L 296.96259339722417 139.54888181818183 L 296.96259339722417 139.54888181818183 L 303.0108993248908 136.29689659090909 L 303.0108993248908 136.29689659090909 L 309.25214705052736 131.62883363636365 L 309.25214705052736 131.62883363636365 L 315.49339477616394 129.58222613636363 L 315.49339477616394 129.58222613636363 L 321.33198135821107 127.937775 L 321.33198135821107 127.937775 L 327.5648403100229 125.85750227272726 L 327.5648403100229 125.85750227272726 L 333.6047574638647 123.79832181818183 L 333.6047574638647 123.79832181818183 L 339.8460051895013 121.42211136363636 L 339.8460051895013 121.42211136363636 L 345.8859223433431 123.1919690909091 L 345.8859223433431 123.1919690909091 L 352.1271700689797 121.91556363636363 L 352.1271700689797 121.91556363636363 L 358.3684177946163 118.81575681818181 L 358.3684177946163 118.81575681818181 L 364.40833494845816 115.4842690909091 L 364.40833494845816 115.4842690909091 L 370.6495826740947 115.7456840909091 L 370.6495826740947 115.7456840909091 L 376.69788860176135 116.21597272727274 L 376.69788860176135 116.21597272727274 L 382.93913632739793 113.61090999999999 L 382.93913632739793 113.61090999999999 L 389.1803840530345 108.1516306818182 L 389.1803840530345 108.1516306818182 L 394.8176400632869 106.44520568181818 L 394.8176400632869 106.44520568181818 L 401.0504990150987 106.96646545454547 L 401.0504990150987 106.96646545454547 L 407.0904161689405 103.9592909090909 L 407.0904161689405 103.9592909090909 L 413.3316638945771 105.46932613636363 L 413.3316638945771 105.46932613636363 L 419.37158104841893 101.99875636363637 L 419.37158104841893 101.99875636363637 L 425.6128287740555 100.54694204545456 L 425.6128287740555 100.54694204545456 L 431.8540764996921 102.20464545454547 L 431.8540764996921 102.20464545454547 L 437.8939936535339 105.74952818181819 L 437.8939936535339 105.74952818181819 L 444.1352413791705 107.43461590909092 L 444.1352413791705 107.43461590909092 L 450.18354730683717 111.69291636363636 L 450.18354730683717 111.69291636363636 L 456.42479503247375 115.49210909090911 L 456.42479503247375 115.49210909090911 L 462.6660427581103 119.75577727272727 L 462.6660427581103 119.75577727272727 L 468.3032987683627 121.81578181818182 L 468.3032987683627 121.81578181818182 L 474.5361577201745 126.76335636363638 L 474.5361577201745 126.76335636363638 L 480.57607487401634 130.23353636363635 L 480.57607487401634 130.23353636363635 L 486.8173225996529 133.06362045454546 L 486.8173225996529 133.06362045454546 L 492.85723975349475 125.89204727272728 L 492.85723975349475 125.89204727272728 L 499.09848747913134 118.33733863636365 L 499.09848747913134 118.33733863636365 L 505.3397352047679 119.32413181818183 L 505.3397352047679 119.32413181818183 L 511.37965235860975 122.98209318181819 L 511.37965235860975 122.98209318181819 L 517.6209000842464 123.50839772727274 L 517.6209000842464 123.50839772727274 L 523.669206011913 125.80349090909091 L 523.669206011913 125.80349090909091 L 529.9104537375496 134.92138863636364 L 529.9104537375496 134.92138863636364 L 539.9104537375496 134.92138863636364"
+         fill="none"
+         id="path781" />
+    </g>
+    <g
+       clip-path="none"
+       style=""
+       transform="translate(42,70) scale(1 1)"
+       visibility="visible"
+       class="highcharts-markers highcharts-tracker"
+       id="g783" />
+  </g>
+  <text
+     style="color:#000000;font-weight:bold;font-size:16px;font-family:arial;text-anchor:start;fill:#000000"
+     class="highcharts-title"
+     y="22"
+     x="15"
+     id="text785">
+    <tspan
+       x="15"
+       id="tspan787"
+       dy="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0">U.S. exchange-traded futures positions by producers &amp; merchants</tspan>
+  </text>
+  <g
+     transform="translate(46,343)"
+     class="highcharts-legend"
+     id="g793">
+    <g
+       id="g795">
+      <g
+         id="g797">
+        <g
+           transform="translate(8,3)"
+           class="highcharts-legend-item"
+           id="g799">
+          <text
+             text-anchor="start"
+             style="color:#189bd7;font-size:12px;cursor:pointer;font-family:arial;text-decoration:none;fill:#189bd7;"
+             y="15"
+             x="21"
+             id="text801">
+            <tspan
+               x="21"
+               id="tspan803">producers/merchants long</tspan>
+          </text>
+          <rect
+             fill="rgb(0,150,215)"
+             fill-opacity="1"
+             stroke-opacity="1"
+             ry="2"
+             rx="2"
+             height="12"
+             width="16"
+             y="4"
+             x="0"
+             id="rect805" />
+        </g>
+        <g
+           transform="translate(177.6666717529297,3)"
+           class="highcharts-legend-item"
+           id="g807">
+          <text
+             text-anchor="start"
+             style="color:#189bd7;font-size:12px;cursor:pointer;font-family:arial;text-decoration:none;fill:#189bd7;"
+             y="15"
+             x="21"
+             id="text809">
+            <tspan
+               x="21"
+               id="tspan811">producers/merchants short</tspan>
+          </text>
+          <rect
+             fill="rgb(93,151,50)"
+             fill-opacity="1"
+             stroke-opacity="1"
+             ry="2"
+             rx="2"
+             height="12"
+             width="16"
+             y="4"
+             x="0"
+             id="rect813" />
+        </g>
+        <g
+           transform="translate(351.3333435058594,3)"
+           class="highcharts-legend-item"
+           id="g815">
+          <path
+             stroke-width="2"
+             stroke="rgb(163,51,64)"
+             stroke-opacity="1"
+             d="M 0 11 L 16 11"
+             fill="none"
+             id="path817" />
+          <text
+             text-anchor="start"
+             style="color:#189bd7;font-size:12px;cursor:pointer;font-family:arial;text-decoration:none;fill:#189bd7;"
+             y="15"
+             x="21"
+             id="text819">
+            <tspan
+               x="21"
+               id="tspan821">producers/merchants net</tspan>
+          </text>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g
+     class="highcharts-axis-labels highcharts-xaxis-labels"
+     id="g823">
+    <text
+       opacity="1"
+       style="color:black;cursor:default;font-size:11px;font-family:arial;fill:black;"
+       text-anchor="middle"
+       y="335"
+       x="57.0662377893055"
+       id="text825">
+      <tspan
+         x="57.0662377893055"
+         id="tspan827">2008</tspan>
+    </text>
+    <text
+       opacity="1"
+       style="color:black;cursor:default;font-size:11px;font-family:arial;fill:black;"
+       text-anchor="middle"
+       y="335"
+       x="130.75322706617604"
+       id="text829">
+      <tspan
+         x="130.75322706617604"
+         id="tspan831">2009</tspan>
+    </text>
+    <text
+       opacity="1"
+       style="color:black;cursor:default;font-size:11px;font-family:arial;fill:black;"
+       text-anchor="middle"
+       y="335"
+       x="204.23888577125183"
+       id="text833">
+      <tspan
+         x="204.23888577125183"
+         id="tspan835">2010</tspan>
+    </text>
+    <text
+       opacity="1"
+       style="color:black;cursor:default;font-size:11px;font-family:arial;fill:black;"
+       text-anchor="middle"
+       y="335"
+       x="277.72454447632765"
+       id="text837">
+      <tspan
+         x="277.72454447632765"
+         id="tspan839">2011</tspan>
+    </text>
+    <text
+       opacity="1"
+       style="color:black;cursor:default;font-size:11px;font-family:arial;fill:black;"
+       text-anchor="middle"
+       y="335"
+       x="351.2102031814035"
+       id="text841">
+      <tspan
+         x="351.2102031814035"
+         id="tspan843">2012</tspan>
+    </text>
+    <text
+       opacity="1"
+       style="color:black;cursor:default;font-size:11px;font-family:arial;fill:black;"
+       text-anchor="middle"
+       y="335"
+       x="424.897192458274"
+       id="text845">
+      <tspan
+         x="424.897192458274"
+         id="tspan847">2013</tspan>
+    </text>
+    <text
+       opacity="1"
+       style="color:black;cursor:default;font-size:11px;font-family:arial;fill:black;"
+       text-anchor="middle"
+       y="335"
+       x="498.3828511633498"
+       id="text849">
+      <tspan
+         x="498.3828511633498"
+         id="tspan851">2014</tspan>
+    </text>
+    <text
+       opacity="1"
+       style="color:black;cursor:default;font-size:11px;font-family:arial;fill:black;"
+       text-anchor="middle"
+       y="335"
+       x="571.8685098684257"
+       id="text853">
+      <tspan
+         x="571.8685098684257"
+         id="tspan855">2015</tspan>
+    </text>
+  </g>
+  <g
+     class="highcharts-axis-labels highcharts-yaxis-labels"
+     id="g857">
+    <text
+       opacity="1"
+       style="width:178px;color:black;cursor:default;font-size:11px;font-family:arial;fill:black;"
+       text-anchor="end"
+       y="320.5"
+       x="34"
+       id="text859">
+      <tspan
+         x="34"
+         id="tspan861">-600</tspan>
+    </text>
+    <text
+       opacity="1"
+       style="width:178px;color:black;cursor:default;font-size:11px;font-family:arial;fill:black;"
+       text-anchor="end"
+       y="298.22727272727275"
+       x="34"
+       id="text863">
+      <tspan
+         x="34"
+         id="tspan865">-500</tspan>
+    </text>
+    <text
+       opacity="1"
+       style="width:178px;color:black;cursor:default;font-size:11px;font-family:arial;fill:black;"
+       text-anchor="end"
+       y="275.95454545454544"
+       x="34"
+       id="text867">
+      <tspan
+         x="34"
+         id="tspan869">-400</tspan>
+    </text>
+    <text
+       opacity="1"
+       style="width:178px;color:black;cursor:default;font-size:11px;font-family:arial;fill:black;"
+       text-anchor="end"
+       y="253.6818181818182"
+       x="34"
+       id="text871">
+      <tspan
+         x="34"
+         id="tspan873">-300</tspan>
+    </text>
+    <text
+       opacity="1"
+       style="width:178px;color:black;cursor:default;font-size:11px;font-family:arial;fill:black;"
+       text-anchor="end"
+       y="231.40909090909088"
+       x="34"
+       id="text875">
+      <tspan
+         x="34"
+         id="tspan877">-200</tspan>
+    </text>
+    <text
+       opacity="1"
+       style="width:178px;color:black;cursor:default;font-size:11px;font-family:arial;fill:black;"
+       text-anchor="end"
+       y="209.13636363636363"
+       x="34"
+       id="text879">
+      <tspan
+         x="34"
+         id="tspan881">-100</tspan>
+    </text>
+    <text
+       opacity="1"
+       style="width:178px;color:black;cursor:default;font-size:11px;font-family:arial;fill:black;"
+       text-anchor="end"
+       y="186.86363636363637"
+       x="34"
+       id="text883">
+      <tspan
+         x="34"
+         id="tspan885">0</tspan>
+    </text>
+    <text
+       opacity="1"
+       style="width:178px;color:black;cursor:default;font-size:11px;font-family:arial;fill:black;"
+       text-anchor="end"
+       y="164.5909090909091"
+       x="34"
+       id="text887">
+      <tspan
+         x="34"
+         id="tspan889">100</tspan>
+    </text>
+    <text
+       opacity="1"
+       style="width:178px;color:black;cursor:default;font-size:11px;font-family:arial;fill:black;"
+       text-anchor="end"
+       y="142.3181818181818"
+       x="34"
+       id="text891">
+      <tspan
+         x="34"
+         id="tspan893">200</tspan>
+    </text>
+    <text
+       opacity="1"
+       style="width:178px;color:black;cursor:default;font-size:11px;font-family:arial;fill:black;"
+       text-anchor="end"
+       y="120.04545454545456"
+       x="34"
+       id="text895">
+      <tspan
+         x="34"
+         id="tspan897">300</tspan>
+    </text>
+    <text
+       opacity="1"
+       style="width:178px;color:black;cursor:default;font-size:11px;font-family:arial;fill:black;"
+       text-anchor="end"
+       y="97.77272727272728"
+       x="34"
+       id="text899">
+      <tspan
+         x="34"
+         id="tspan901">400</tspan>
+    </text>
+    <text
+       opacity="1"
+       style="width:178px;color:black;cursor:default;font-size:11px;font-family:arial;fill:black;"
+       text-anchor="end"
+       y="75.5"
+       x="34"
+       id="text903">
+      <tspan
+         x="34"
+         id="tspan905">500</tspan>
+    </text>
+  </g>
+  <g
+     transform="translate(0,-9999)"
+     style="cursor:default;padding:0;white-space:nowrap;"
+     class="highcharts-tooltip"
+     id="g907">
+    <rect
+       transform="translate(1, 1)"
+       stroke-width="5"
+       stroke-opacity="0.049999999999999996"
+       stroke="black"
+       ry="3"
+       rx="3"
+       fill-opacity="0.85"
+       fill="none"
+       height="10"
+       width="10"
+       y="0.5"
+       x="0.5"
+       id="rect909" />
+    <rect
+       transform="translate(1, 1)"
+       stroke-width="3"
+       stroke-opacity="0.09999999999999999"
+       stroke="black"
+       ry="3"
+       rx="3"
+       fill-opacity="0.85"
+       fill="none"
+       height="10"
+       width="10"
+       y="0.5"
+       x="0.5"
+       id="rect911" />
+    <rect
+       transform="translate(1, 1)"
+       stroke-width="1"
+       stroke-opacity="0.15"
+       stroke="black"
+       ry="3"
+       rx="3"
+       fill-opacity="0.85"
+       fill="none"
+       height="10"
+       width="10"
+       y="0.5"
+       x="0.5"
+       id="rect913" />
+    <rect
+       ry="3"
+       rx="3"
+       fill-opacity="0.85"
+       fill="rgb(255,255,255)"
+       height="10"
+       width="10"
+       y="0.5"
+       x="0.5"
+       id="rect915" />
+    <text
+       style="font-size:12px;font-family:arial;color:#333333;fill:#333333;"
+       y="18"
+       x="5"
+       id="text917" />
+  </g>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="430.61029"
+     y="-24.058825"
+     id="text4249"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan4251"
+       x="430.61029"
+       y="-24.058825"></tspan></text>
+</svg>
